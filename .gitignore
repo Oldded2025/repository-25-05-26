@@ -1,0 +1,13 @@
+# venv
+.venv
+venv
+.env
+
+# log
+*.log
+
+# files
+
+# databases
+*.db
+*.sqlite3 
